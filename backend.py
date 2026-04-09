@@ -1033,7 +1033,7 @@ html_code = '''
     </style>
 </head>
 <body class="not-loaded">
-    <div class="nazli-text">Nazlı</div>
+    <div class="nazli-text">Naz</div>
     <div class="night"></div>
     <div class="flowers">
         <div class="flower flower--1">
